@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44533" started-at="2021-12-07T14:05:08Z" finished-at="2021-12-07T14:05:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44533" started-at="2021-12-07T14:05:08Z" finished-at="2021-12-07T14:05:53Z">
+      <class name="test.org.ClassA">
+        <test-method status="PASS" signature="test1()[pri:0, instance:test.org.ClassA@35bbe5e8]" name="test1" duration-ms="41344" started-at="2021-12-07T19:35:08Z" finished-at="2021-12-07T19:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:test.org.ClassA@35bbe5e8]" name="test2" duration-ms="1947" started-at="2021-12-07T19:35:50Z" finished-at="2021-12-07T19:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:test.org.ClassA@35bbe5e8]" name="test3" duration-ms="1223" started-at="2021-12-07T19:35:52Z" finished-at="2021-12-07T19:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- test.org.ClassA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
